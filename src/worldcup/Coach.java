@@ -24,4 +24,6 @@ public class Coach extends Person {
 		this.style = style;
 	}
 
+	//clone stephany
+
 }
