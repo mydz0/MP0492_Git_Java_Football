@@ -5,6 +5,8 @@ import java.util.Random;
 /**
  * Class to define the forward
  */
+/**Yessamin*/
+
 public class Forward extends Player {
 	boolean killer;
 
