@@ -4,7 +4,7 @@ package worldcup;
  * Class to define the player
  */
 public class Field {
-	
+	private int size;
 
 	/**
 	 * @return the size
