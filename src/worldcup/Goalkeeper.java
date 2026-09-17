@@ -12,7 +12,7 @@ public class Goalkeeper extends Player {
 	 * @return the globes
 	 */
 	public boolean isGlobes() {
-		return setplayer;
+		return globes;
 	}
 
 	/**
