@@ -12,6 +12,6 @@ public class Ball {
     }
 
     public void play(){
-        System.out.println("play");
+        System.out.println("replay");
     }
 }
